@@ -1,0 +1,3 @@
+# # #Projekat je radio Ilija Kalinić, SW-65/2019# # #
+
+       Glavni program se pokreće sa >main.py<

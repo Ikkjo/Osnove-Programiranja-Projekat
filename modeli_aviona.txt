@@ -1,0 +1,3 @@
+Boeing 747|20|A B C D E F G H I J K L M N O
+Airbus A300|18|A B C D E F G H I J K L
+Boeing 777|25|A B C D E F G H I J K L M N O P Q R S T

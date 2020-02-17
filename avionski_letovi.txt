@@ -1,0 +1,20 @@
+BP46|BEG|LBG|09:10|11:30|ne|AirSerbia|ponedeljak sreda petak nedelja|Boeing 747|200
+BL89|BEG|LCY|13:25|16:00|ne|AirSerbia|ponedeljak sreda petak subota nedelja|Airbus A300|300
+BM12|BEG|VKO|08:45|11:15|ne|AirSerbia|ponedeljak utorak sreda četvrtak petak subota nedelja|Boeing 747|250
+LP80|LCY|LBG|12:00|12:40|ne|AirUK|ponedeljak utorak sreda četvrtak petak subota nedelja|Airbus A300|90
+BL22|BEG|LAX|14:15|12:10|da|AirSerbia|sreda subota|Boeing 777|500
+SN78|GRU|JFK|10:00|13:30|ne|AirBrazil|ponedeljak sreda subota|Airbus A300|300
+ML02|MLB|LCY|16:14|09:00|da|AirAustralia|sreda petak|Boeing 777|500
+LN45|LAX|JFK|13:00|15:00|ne|AirUSA|ponedeljak utorak sreda četvrtak petak subota nedelja|Boeing 747|100
+LN90|LAX|JFK|20:00|22:00|ne|AirUSA|ponedeljak utorak sreda četvrtak petak subota nedelja|Boeing 747|100
+LN05|LAX|JFK|06:00|08:00|ne|AirUSA|ponedeljak utorak sreda četvrtak petak subota nedelja|Boeing 747|100
+NL45|JFK|LAX|13:00|15:00|ne|AirUSA|ponedeljak utorak sreda četvrtak petak subota nedelja|Boeing 747|100
+NL90|JFK|LAX|20:00|22:00|ne|AirUSA|ponedeljak utorak sreda četvrtak petak subota nedelja|Boeing 747|100
+NL05|JFK|LAX|06:00|08:00|ne|AirUSA|ponedeljak utorak sreda četvrtak petak subota nedelja|Boeing 747|100
+CM30|CPT|VKO|16:10|21:35|ne|AirSouthAfrica|utorak četvrtak|Boeing 777|500
+BL99|PEK|LCY|17:32|05:00|da|AirChina|petak|Airbus A300|260
+MP36|VKO|LBG|17:15|21:30|ne|AirRussia|ponedeljak utorak subota|Boeing 777|420
+LB07|LAX|PEK|09:24|13:45|ne|AirUSA|sreda petak|Boeing 747|150
+MB70|MLB|PEK|13:45|18:00|ne|AirAustralia|ponedeljak petak|Boeing 747|370
+CB11|CPT|BEG|10:12|16:30|ne|AirSouthAfrica|utorak petak|Airbus A300|280
+NP33|JFK|LBG|08:00|16:00|ne|AirUSA|ponedeljak sreda petak subota nedelja|Boeing 777|430

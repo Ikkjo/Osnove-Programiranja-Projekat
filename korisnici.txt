@@ -1,0 +1,11 @@
+Bubi|Bubisa|Zoran|Bukorac|kupac|374892901|Srpsko|0643272852|zoran@email.com|musko
+ColdBubbyGuy|Teolema|Teodor|Sakal Franciskovic|kupac|212353486|Srpsko|0661564681|teodor@email.com|musko
+P1glu|Pavel|Pavle|Glusac|kupac|784561654|Srpsko|0649875635|pavle@email.com|musko
+Laza|Password|Lazar|Pavlovic|prodavac
+Djole|Anime|Mihajlo|Djordjevic|prodavac
+ShoneMakarone|KICZ|Nenad|Rakovic|menadzer
+Ikkjo|ik1234|Ilija|Kalinić|kupac|313008925|Srpsko|0611178292|ikalinic@email.com|musko
+koko2|IoIpI2|Damir|Zvezdić|kupac|008926731|Srpsko|065623231|kokonoko@gmail.com|musko
+milica.kalinic|milica0231|Milica|Kalinic|kupac|222222222|R Srbije|066423980|milicaa.kalinic@gmail.com|zenski
+CipiRipi|dostajebilo|Nikola|Damjanović|prodavac
+doni32|sifra|Darko|Uzelac|prodavac

@@ -1,0 +1,10 @@
+BEG|Belgrade Nikola Tesla Airport|Belgrade|Serbia
+LBG|Paris-Le Bourget Airport|Paris|France
+JFK|John F Kennedy International Airport|New York|USA
+LCY|London City Airport|London|UK
+GRU|Guarulhos - Governador André Franco Montoro International Airport|Sao Paulo|Brazil
+PEK|Beijing Capital International Airport|Beijing|China
+VKO|Vnukovo International Airport|Moscow|Russia
+LAX|Los Angeles International Airport|Los Angeles|USA
+MLB|Melbourne International Airport|Melbourne|Australia
+CPT|Cape Town International Airport|Cape Town|South Africa
